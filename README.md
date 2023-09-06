@@ -6,9 +6,11 @@
 - 📫 How to reach me **milutinnikolic032@gmail.com**
 
 # 💫 About Me:
-<br>When ever you find yourself on the side of the majority, it is time to reform.
-<br>You must be the change you want to see in the world.
-<br><br><br>
+<br>When ever you find yourself on the side of the majority, it is time to reform. -Mark Twain
+<br>You must be the change you want to see in the world. -Gandhi
+<br>There is no substitute for hard work. -Thomas Edison
+<br>The mind is everything. What you think you become. -Buddha
+<br>
 
 
 
