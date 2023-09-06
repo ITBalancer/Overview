@@ -6,7 +6,7 @@
 - 📫 How to reach me **milutinnikolic032@gmail.com**
 
 # 💫 About Me:
-<br>DNS is the root of all problems.<br><br><br><br>
+<br>Whenever you find yourself on the side of the majority, it is time to reform.<br><br><br><br>
 
 
 
