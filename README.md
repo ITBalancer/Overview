@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm IT_Balancer</h1>
 <h3 align="center">How do system administrators stay healthy? They run anti-virus scans every day!</h3>
-<img align="right" alt="sysadmin" width="400" src="https://media0.giphy.com/media/XIhPIFwsPxljcGRC5d/giphy.gif?cid=ecf05e471gclpvsa9ttj6g64gttjablf85tcm5zzkwltjdt8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="sysadmin" width="400" src="https://media0.giphy.com/media/XIhPIFwsPxljcGRC5d/giphy.gif">
 
 - 📫 How to reach me **milutinnikolic032@gmail.com**
 
