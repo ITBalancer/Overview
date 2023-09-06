@@ -3,7 +3,7 @@
 
 <img align="right" alt="sysadmin" width="400" src="https://media0.giphy.com/media/XIhPIFwsPxljcGRC5d/giphy.gif">
 
-- 📫 How to reach me **milutinnikolic032@gmail.com**
+- 📫 You can reach me on the email **milutinnikolic032@gmail.com**.
 
 # 💫 About Me:
 <br>When ever you find yourself on the side of the majority, it is time to reform. -Mark Twain
